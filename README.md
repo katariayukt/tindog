@@ -1,2 +1,1 @@
-# tindog
-A perfect website to find yourself a dog.
+TinDog Starting Files
